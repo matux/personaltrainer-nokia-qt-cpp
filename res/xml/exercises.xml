@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercises>
+  <exercise type="Entrada en calor" desc="Se refiere a una serie breve de ejercicios cuya finalidad es predisponer al organismo para un esfuerzo posterior. Marcha en el lugar con rodillas hacia arriba y adelante, balanceos de piernas, trote suave en el lugar, trote en el lugar llevando talones a la cola, saltitos en el lugar con pies juntos más rotación de torso, balanceos alternados de brazos, circunducciones de brazos. Entre 3 y 5 de éstos ejercicios son suficiente estímulo para lograr el objetivo de poner en marcha el cuerpo." title="ejercicios_titulo_entradacalor.png" figure="fig_entrada_calor.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Estiramiento y Elongación" desc="Se refiere a un bloque de stretching en el que entendemos elongación general. Son estiramientos hechos al final de la sesión y que son más largos que un simple estiramiento." title="ejercicios_titulo_stretching.png" figure="fig_stretching.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Estiramiento de flexores de cadera" desc="Parado, colocar un pie sobre algún banco y proyectar el cuerpo hacia delante, dejando la pierna de apoyo extendida." title="ejercicios_titulo_stretching.png" figure="fig_stretching.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Estiramiento de cintura y aductores" desc="Sentarse bien al borde de un banco, separar los pies y plegarse al frente, llevando las manos al piso y colocando el tronco entre las piernas." title="ejercicios_titulo_stretching.png" figure="fig_stretching.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Estiramiento de cuádriceps" desc="Apoyado sobre una pierna, elevar la otra al glúteo tomándola con una mano y traccionando hacia arriba y atrás." title="ejercicios_titulo_stretching_cuad.png" figure="fig_stret_cuadri.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Estiramiento de isquiotibiales" desc="Apoyar una pierna en algún punto elevado, mantenerla extendida y plegar sobre ésta el cuerpo, de modo muy suave, para poder percibir estiramiento en su cara posterior." title="ejercicios_titulo_stretching.png" figure="fig_stretching.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Estiramiento de aductores" desc="Sentado sobre el piso, separar ligeramente los pies y dejar que el tronco se proyecte hacia delante, muy lentamente, para registrar un suave estiramiento en la zona interna de las piernas." title="ejercicios_titulo_stretching_isquio.png" figure="fig_stret_isquio.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Estiramiento de pantorrillas" desc="Parado sobre algún escalón o cordón de la calle, recargar el peso del cuerpo sobre la parte anterior del pié, cuyo talón debe sobresalir, para poder descender. Mantener ésta pierna extendida los primeros 20 segundos para flexionarla mínimamente después." title="ejercicios_titulo_stretching_pant.png" figure="fig_stretching.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Caminata suave" desc="Esta caminata es de ritmo bajo, ideal para recuperarse de un esfuerzo grande. Tenés que sentir que te devuelve el aire que te haya estado faltando y que la podrías mantener por un largo período." title="ejercicios_titulo_caminata.png" figure="fig_caminata.png">
+    <properties requiresGPS="1" showsDistance="1" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Caminata moderada" desc="Esta sería una caminata de ritmo medio, que si bien te exige, sentís que la podés mantener por mucho tiempo." title="ejercicios_titulo_caminata.png" figure="fig_caminata.png">
+    <properties requiresGPS="1" showsDistance="1" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Caminata a buen ritmo" desc="Esta caminata impone un ritmo apurado, exigido." title="ejercicios_titulo_caminata.png" figure="fig_caminata.png">
+    <properties requiresGPS="1" showsDistance="1" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Caminata según pendiente" desc="Buscar calles en subida, aprovechar las escaleras en la ciudad para caminar en las mismas." title="ejercicios_titulo_caminata.png" figure="fig_caminata.png">
+    <properties requiresGPS="1" showsDistance="1" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Trote suave" desc="Es un ritmo de trote que no impone un esfuerzo importante, no te exige, te permite sostenerlo por mucho tiempo." title="ejercicios_titulo_trote.png" figure="fig_trote.png">
+    <properties requiresGPS="1" showsDistance="1" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Trote cómodo" desc="Esfuerzo que te pide, pero que se banca perfectamente. Tenés que sentir que podrías correr por un período prolongado." title="ejercicios_titulo_trote.png" figure="fig_trote.png">
+    <properties requiresGPS="1" showsDistance="1" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Trote a buen ritmo" desc="Éste es un ritmo importante, que te impone un esfuerzo que hay que SOSTENERLO, aguantarlo y no aflojarle. Tenés que sentirlo, aunque debe ser tolerable." title="ejercicios_titulo_trote.png" figure="fig_trote.png">
+    <properties requiresGPS="1" showsDistance="1" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Trote según pendiente" desc="Buscar calles en subida, aprovechar las escaleras en la ciudad para trotar en las mismas." title="ejercicios_titulo_trote.png" figure="fig_trote.png">
+    <properties requiresGPS="1" showsDistance="1" showsTime="1" showsReps="0" showsSteps="0" />
+  </exercise>
+  <exercise type="Abdominales clásicos" desc="El cuerpo en posición decúbito dorsal, las piernas flexionadas, los pies muy cerca de los glúteos. El ejecutante flexiona su columna, sosteniéndo con sus manos la nuca. Alcanzada la máxima flexión, vuelve a la posición inicial." title="ejercicios_titulo_abd.png" figure="fig_abd.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Abdominales oblicuos" desc="El ejecutante se recuesta en el piso boca arriba, flexiona ambas piernas y las vuelca hacia un costado. Con manos tras la nuca, realiza la flexión de tronco y su extensión, tantas veces como indique la programación." title="ejercicios_titulo_abd.png" figure="fig_abd.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Abdominales vela" desc="El ejecutante se recuesta boca arriba, eleva las 2 piernas juntas y afirma el cuerpo apoyando los brazos a los lados. La posicón inicial es con ángulo de 90 grados en articulación de rodillas y de piernas y, desde aquí, se eleva el bloque cadera-piernas y se baja con control. No hay que dejar que se desplome la cadera al bajar." title="ejercicios_titulo_abd.png" figure="fig_abd.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Lagartijas con aplauso" desc="Se realiza una lagartija a velocidad para generar un salto sobre las manos." title="ejercicios_titulo_lagartijas.png" figure="fig_lagartijas.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Lagartijas puras" desc="El ejecutante se recuesta boca abajo, pies separados, manos al costado del cuerpo a la altura del pecho, empuja con los brazos para elevar el cuerpo, despegándolo del piso con el torso rígido y lentamente vuelve a bajar hasta posición inicial, y repite." title="ejercicios_titulo_lagartijas.png" figure="fig_lagartijas.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Lagartijas de rodillas" desc="El ejecutante se recuesta boca abajo y apoya sus rodillas, flexionadas, en el piso, las manos al costado del cuerpo a la altura del pecho, levanta sus talones y realiza, extendiendo sus brazos, con los talones arriba." title="ejercicios_titulo_lagartijas.png" figure="fig_lagartijas.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Galope lateral" desc="Es un desplazamiento en el cual el cuerpo está orientado hacia el frente, pero, el movimiento se hace hacia el costado, con los pies que se separan y se vuelven a juntar velozmente y sin cruzarse." title="ejercicios_titulo_galope_l.png" figure="fig_galope_lat.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Nados" desc="El cuerpo se coloca boca abajo con los brazos hacia delante, se eleva suavemente el torso y los talones y se hace un movimiento que simula estar nadando estilo pecho." title="ejercicios_titulo_nados.png" figure="fig_nados.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Carrera ida y vuelta" desc="Sobre una distancia dada por 2 puntos o líneas, el ejecutante debe correr hacia la más distante, tocarla y volver para hacer lo propio con aquella desde donde partió." title="ejercicios_titulo_carrera.png" figure="fig_carrera.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Skipping" desc="Se refiere a un trote en el lugar, con elevación de las rodillas por delante del cuerpo." title="ejercicios_titulo_skipping.png" figure="fig_skipping.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Espinales estáticos" desc="El cuerpo se coloca boca abajo con los brazos hacia delante, se eleva suavemente el torso y los talones." title="ejercicios_titulo_espinales_est.png" figure="fig_espinales.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Sentadillas clásicas" desc="El ejecutante se encuentra de pie, erguido, flexiona sus rodillas, proyecta su cadera hacia atrás y sin llegar a cuclillas, vuelve a erguirse por medio de la extensión de las piernas." title="ejercicios_titulo_sentadillas.png" figure="fig_sentadillas.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Sentadillas con salto" desc="Igual que las clásicas pero se le da más velocidad al movimiento y el cuerpo se propulsa por sobre el piso, despegándose los pies del mismo, para luego volver a caer de forma controlada." title="ejercicios_titulo_sentadillas.png" figure="fig_sentadillas.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Superman" desc="Ejercicio postural en el que el ejecutante parte de posición de banco (con rodillas y manos apoyados en el piso) y extiende una pierna hacia atrás y luego el brazo contrario hacia delante." title="ejercicios_titulo_superman.png" figure="fig_superman.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Respiración y aflojamiento" desc="La propuesta consiste en respirar profundamente (y exhalar) buscando aflojar todo el cuerpo (relajarlo) empezándo por la cabeza (pensamientos) hasta llegar a los músculos que fueron comprometidos en la sesión de trabajo." title="ejercicios_titulo_relajacion.png" figure="fig_relajacion.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="0" showsReps="1" showsSteps="0" />
+  </exercise>
+  <exercise type="Estiramiento de la cintura" desc="Recostado boca arriba sobre el piso, el usuario deja una pierna apoyada y extendida, mientras que la restante la cruza al lado contrario, con flexión de rodilla." title="ejercicios_titulo_stretching.png" figure="fig_stretching.png">
+    <properties requiresGPS="0" showsDistance="0" showsTime="1" showsReps="1" showsSteps="0" />
+  </exercise>
+</exercises>

@@ -1,0 +1,1512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <plan name="Pérdida de Peso">
+    <level name="Principiante">
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="13" time="10" />
+        <ejercicio type="10" time="15" />
+        <ejercicio type="17" time="30" series="3" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="7"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="13" time="10" />
+        <ejercicio type="10" time="10" />
+        <ejercicio type="17" time="30" series="2" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="13" time="10" />
+        <ejercicio type="10" time="15" />
+        <ejercicio type="17" time="30" series="3" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="13" time="15" />
+        <ejercicio type="9" time="15" />
+        <ejercicio type="17" time="30" series="3" />
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="15" time="15" />
+        <ejercicio type="11" time="15" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="13" time="10" />
+        <ejercicio type="11" time="5" />
+        <ejercicio type="13" time="10" />
+        <ejercicio type="17" time="30" series="3" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="10" time="20"></ejercicio>
+        <ejercicio type="13" time="18"></ejercicio>
+        <ejercicio type="11" time="20" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="15" time="18"></ejercicio>
+        <ejercicio type="9" time="15" />
+        <ejercicio type="17" time="40" series="3" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="12" time="15"></ejercicio>
+        <ejercicio type="16" time="15"></ejercicio>
+        <ejercicio type="12" time="15" />
+        <ejercicio type="17" time="30" series="4" />
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="13" time="20" />
+        <ejercicio type="10" time="15" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="10" time="10"></ejercicio>
+        <ejercicio type="14" time="20" />
+        <ejercicio type="10" time="20" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="10" time="10"></ejercicio>
+        <ejercicio type="15" time="20" />
+        <ejercicio type="9" time="10" />
+        <ejercicio type="17" time="40" series="4" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+    </level>
+    <level name="Intermedio">
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="13" time="22" />
+        <ejercicio type="10" time="10" />
+        <ejercicio type="18" time="30" series="3" />
+        <ejercicio type="17" time="40" series="1" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="3"></ejercicio>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="13" time="22" />
+        <ejercicio type="10" time="15" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="13" time="22" />
+        <ejercicio type="10" time="10" />
+        <ejercicio type="18" time="30" series="3"></ejercicio>
+        <ejercicio type="17" time="40" series="1" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="7"></ejercicio>
+        <ejercicio type="9" time="7"></ejercicio>
+        <ejercicio type="13" time="24" />
+        <ejercicio type="10" time="15" />
+        <ejercicio type="18" time="30" series="3"></ejercicio>
+        <ejercicio type="17" time="40" series="1" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="15" time="24" />
+        <ejercicio type="10" time="10" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="7"></ejercicio>
+        <ejercicio type="13" time="24" />
+        <ejercicio type="9" time="7" />
+        <ejercicio type="18" time="30" series="3"></ejercicio>
+        <ejercicio type="17" time="40" series="2" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="15" time="26"></ejercicio>
+        <ejercicio type="10" time="7" />
+        <ejercicio type="18" time="30" series="3"></ejercicio>
+        <ejercicio type="17" time="40" series="1"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="3"></ejercicio>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="13" time="26" />
+        <ejercicio type="9" time="15" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="3"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="13" time="26"></ejercicio>
+        <ejercicio type="10" time="10" />
+        <ejercicio type="18" time="30" series="3"></ejercicio>
+        <ejercicio type="17" time="40" series="1" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="13" time="28" />
+        <ejercicio type="10" time="10"></ejercicio>
+        <ejercicio type="18" time="40" series="2"></ejercicio>
+        <ejercicio type="17" time="40" series="2" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="15" time="28" />
+        <ejercicio type="10" time="5" />
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="28" />
+        <ejercicio type="10" time="3" />
+        <ejercicio type="18" time="30" series="3" />
+        <ejercicio type="17" time="40" series="3" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="30" />
+        <ejercicio type="10" time="5" />
+        <ejercicio type="18" time="30" series="3" />
+        <ejercicio type="17" time="40" series="3" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="15" time="7" />
+          <ejercicio type="11" time="3"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="10" time="10" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="15" time="30" />
+        <ejercicio type="10" time="3" />
+        <ejercicio type="18" time="40" series="3" />
+        <ejercicio type="17" time="40" series="4" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="15" time="30" />
+        <ejercicio type="10" time="3" />
+        <ejercicio type="18" time="30" series="4" />
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="15" time="7" />
+          <ejercicio type="11" time="3"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="15" time="30" />
+        <ejercicio type="9" time="5" />
+        <ejercicio type="18" time="30" series="3" />
+        <ejercicio type="17" time="40" series="4" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+    </level>
+    <level name="Avanzado">
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="13" time="35" />
+        <ejercicio type="10" time="5" />
+        <ejercicio type="18" time="50" series="3" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="3"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="30" />
+        <ejercicio type="10" time="5"></ejercicio>
+        <ejercicio type="18" time="50" series="3" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="13" time="35"></ejercicio>
+        <ejercicio type="10" time="10" />
+        <ejercicio type="18" time="50" series="3"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="7"></ejercicio>
+        <ejercicio type="9" time="7"></ejercicio>
+        <ejercicio type="15" time="35" />
+        <ejercicio type="18" time="30" series="3"></ejercicio>
+        <ejercicio type="17" time="40" series="1" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="40" />
+        <ejercicio type="10" time="5" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="7"></ejercicio>
+        <ejercicio type="15" time="36" />
+        <ejercicio type="9" time="4" />
+        <ejercicio type="18" time="50" series="3"></ejercicio>
+        <ejercicio type="17" time="50" series="2" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="13" time="40"></ejercicio>
+        <ejercicio type="10" time="5" />
+        <ejercicio type="18" time="50" series="3"></ejercicio>
+        <ejercicio type="17" time="50" series="2"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="3"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="15" time="10" />
+          <ejercicio type="9" time="3" />
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="3"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="14" time="40"></ejercicio>
+        <ejercicio type="17" time="50" series="4"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="13" time="35" />
+        <ejercicio type="18" time="50" series="3"></ejercicio>
+        <ejercicio type="17" time="50" series="3" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="14" time="40" />
+        <ejercicio type="10" time="5" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="16" time="40" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="13" time="40"></ejercicio>
+        <ejercicio type="18" time="60" series="4" />
+        <ejercicio type="17" time="60" series="3" />
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="13" time="15"></ejercicio>
+        <ejercicio type="15" time="1" />
+        <ejercicio type="13" time="4"></ejercicio>
+        <ejercicio type="17" time="60" series="4"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="15" time="40" />
+        <ejercicio type="9" time="3" />
+        <ejercicio type="18" time="60" series="4" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+    </level>
+  </plan>
+  <plan name="Definición Muscular">
+    <level name="Principiante">
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="30"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="22" time="15"></ejercicio>
+          <ejercicio type="17" time="30" series="1"></ejercicio>
+          <ejercicio type="25" time="10" series="4" />
+          <ejercicio type="28" time="10"></ejercicio>
+          <ejercicio type="30" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="30"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="22" time="15"></ejercicio>
+          <ejercicio type="17" time="30" series="1"></ejercicio>
+          <ejercicio type="25" time="10" series="4" />
+          <ejercicio type="28" time="10"></ejercicio>
+          <ejercicio type="30" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="30"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="22" time="10"></ejercicio>
+          <ejercicio type="17" time="30" series="1"></ejercicio>
+          <ejercicio type="25" time="10" series="4" />
+          <ejercicio type="28" time="12"></ejercicio>
+          <ejercicio type="30" time="25"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="30"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="22" time="12"></ejercicio>
+          <ejercicio type="17" time="40" series="1"></ejercicio>
+          <ejercicio type="25" time="10" series="4" />
+          <ejercicio type="28" time="15"></ejercicio>
+          <ejercicio type="30" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="40"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="21" time="15"></ejercicio>
+          <ejercicio type="17" time="40" series="1"></ejercicio>
+          <ejercicio type="25" time="10" series="4" />
+          <ejercicio type="28" time="15"></ejercicio>
+          <ejercicio type="30" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="12" time="40"></ejercicio>
+        <ejercicio type="2" time="5"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="30"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="10"></ejercicio>
+          <ejercicio type="17" time="30" series="1"></ejercicio>
+          <ejercicio type="28" time="12"></ejercicio>
+          <ejercicio type="25" time="10" series="5" />
+          <ejercicio type="2" time="5"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="25"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="25" time="10" series="6"></ejercicio>
+          <ejercicio type="9" time="5"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="15"></ejercicio>
+          <ejercicio type="17" time="40" series="1"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="5"></ejercicio>
+          <ejercicio type="29" time="10"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="10" time="10"></ejercicio>
+        <ejercicio type="2" time="5"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="25"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="25" time="10" series="6"></ejercicio>
+          <ejercicio type="9" time="5"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="15"></ejercicio>
+          <ejercicio type="17" time="40" series="1"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="5"></ejercicio>
+          <ejercicio type="29" time="10"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="10" time="10"></ejercicio>
+        <ejercicio type="2" time="5"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="5"></ejercicio>
+          <ejercicio type="10" time="5"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="25" time="10" series="4"></ejercicio>
+          <ejercicio type="9" time="1"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="17" time="50" series="1"></ejercicio>
+          <ejercicio type="30" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="5"></ejercicio>
+          <ejercicio type="17" time="50" series="1"></ejercicio>
+          <ejercicio type="29" time="12"></ejercicio>
+          <ejercicio type="30" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="30"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="5"></ejercicio>
+          <ejercicio type="10" time="5"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="25" time="10" series="4"></ejercicio>
+          <ejercicio type="9" time="1"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="17" time="50" series="1"></ejercicio>
+          <ejercicio type="30" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="50" series="1"></ejercicio>
+          <ejercicio type="29" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="30"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+    </level>
+    <level name="Intermedio">
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="13" time="15"></ejercicio>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="20"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="14" time="15"></ejercicio>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="20"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="13" time="15"></ejercicio>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="20"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="12"></ejercicio>
+        <ejercicio type="13" time="16"></ejercicio>
+        <ejercicio type="11" time="12"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="20"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="12"></ejercicio>
+        <ejercicio type="14" time="15"></ejercicio>
+        <ejercicio type="11" time="12"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="20"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="14" time="15"></ejercicio>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="20"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="12"></ejercicio>
+        <ejercicio type="13" time="18"></ejercicio>
+        <ejercicio type="11" time="12"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="21" time="8"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="22"></ejercicio>
+          <ejercicio type="24" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="14" time="15"></ejercicio>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="20"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="13" time="15"></ejercicio>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="20"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="12"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicio type="11" time="12"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="21" time="10"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="24"></ejercicio>
+          <ejercicio type="24" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="14" time="22"></ejercicio>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="21" time="8"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="24"></ejercicio>
+          <ejercicio type="24" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="24"></ejercicio>
+          <ejercicio type="24" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="7"></ejercicio>
+        <ejercicio type="14" time="25"></ejercicio>
+        <ejercicio type="11" time="12"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="21" time="10"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="24"></ejercicio>
+          <ejercicio type="24" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="15" time="25"></ejercicio>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="21" time="12"></ejercicio>
+          <ejercicio type="17" time="75" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="24"></ejercicio>
+          <ejercicio type="24" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="15" time="25"></ejercicio>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="21" time="10"></ejercicio>
+          <ejercicio type="17" time="60" series="1"></ejercicio>
+          <ejercicio type="23" time="60"></ejercicio>
+          <ejercicio type="11" time="0" special="24"></ejercicio>
+          <ejercicio type="24" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+    </level>
+    <level name="Avanzado">
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="20" time="3"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="5"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="3"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="5"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="20" time="3"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="25"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="20" time="3"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="7"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="3"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="20" time="3"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="15"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="20" time="5"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="40"></ejercicio>
+          <ejercicio type="19" time="15" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="30"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="7"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="5"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="40"></ejercicio>
+          <ejercicio type="19" time="15" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="5"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="20" time="5"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="15" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="10"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="13" time="25"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="5"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="15" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="10"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="30"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="3"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="13" time="30"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="5"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="10"></ejercicio>
+        <ejercicio type="2" time="3" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="13" time="25"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="7"></ejercicio>
+          <ejercicio type="21" time="8"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="15" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="14" time="20"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="7"></ejercicio>
+          <ejercicio type="21" time="8"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="20"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="20"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="15" time="30"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="20" time="5"></ejercicio>
+          <ejercicio type="21" time="7"></ejercicio>
+          <ejercicio type="26" time="30"></ejercicio>
+          <ejercicio type="19" time="12" series="1"></ejercicio>
+          <ejercicio type="11" time="0" special="30"></ejercicio>
+          <ejercicio type="27" time="40"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="13" time="10"></ejercicio>
+        <ejercicio type="2" time="3" />
+      </rutina>
+    </level>
+  </plan>
+  <plan name="Running Performance">
+    <level name="Principiante">
+      <rutina>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicioCompuesto count="8">
+          <ejercicio type="13" time="1"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="2" time="6" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicioCompuesto count="6">
+          <ejercicio type="13" time="1"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicioCompuesto count="8">
+          <ejercicio type="13" time="2"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicioCompuesto count="7">
+          <ejercicio type="13" time="3"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="3" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="50"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="7"></ejercicio>
+        <ejercicioCompuesto count="8">
+          <ejercicio type="13" time="3"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="10" time="10"></ejercicio>
+        <ejercicio type="2" time="6" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="6">
+          <ejercicio type="13" time="4"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicioCompuesto count="5">
+          <ejercicio type="13" time="5"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="6">
+          <ejercicio type="13" time="5"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="6"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="12" time="50"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="13" time="6"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="6"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="12" time="50"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="13" time="6"></ejercicio>
+          <ejercicio type="9" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+    </level>
+    <level name="Intermedio">
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="8"></ejercicio>
+          <ejercicio type="9" time="3"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="50"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="9"></ejercicio>
+          <ejercicio type="9" time="3"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="12"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="10"></ejercicio>
+          <ejercicio type="9" time="3"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="10" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="12" time="50"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="7"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="12"></ejercicio>
+          <ejercicio type="9" time="3"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="10" time="15"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="3">
+          <ejercicio type="13" time="15"></ejercicio>
+          <ejercicio type="9" time="3"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="4" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicioCompuesto count="2">
+          <ejercicio type="15" time="15"></ejercicio>
+          <ejercicio type="11" time="3"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="7"></ejercicio>
+        <ejercicio type="14" time="20"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="15" time="20"></ejercicio>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="16" time="25"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="10"></ejercicio>
+        <ejercicio type="14" time="25"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="9" time="7"></ejercicio>
+        <ejercicio type="13" time="30"></ejercicio>
+        <ejercicio type="9" time="7"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="15"></ejercicio>
+        <ejercicio type="13" time="30"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="15"></ejercicio>
+        <ejercicio type="13" time="35"></ejercicio>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="13" time="30"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="14" time="40"></ejercicio>
+        <ejercicio type="9" time="10"></ejercicio>
+        <ejercicio type="2" time="5"></ejercicio>
+      </rutina>
+    </level>
+    <level name="Avanzado">
+      <rutina>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="14" time="0" distance="7"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="16" time="50"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="14" time="0" distance="8"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="15" time="0" distance="7"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="16" time="50"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="15" time="0" distance="8"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="14" time="0" distance="9"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="16" time="60"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="13" time="0" distance="9"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="15" time="0" distance="9"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="16" time="50"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="13" time="0" distance="10"></ejercicio>
+      </rutina>
+    </level>
+  </plan>
+  <plan name="Antistress">
+    <level name="Principiante">
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="10" time="20"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="10" time="20"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="10"></ejercicio>
+        <ejercicio type="10" time="22"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="10"></ejercicio>
+        <ejercicio type="10" time="22"></ejercicio>
+        <ejercicio type="2" time="8" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="10" time="24"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="10" time="24"></ejercicio>
+        <ejercicio type="2" time="15" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="10"></ejercicio>
+        <ejercicio type="10" time="24"></ejercicio>
+        <ejercicio type="2" time="15" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="10"></ejercicio>
+        <ejercicio type="10" time="26"></ejercicio>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="31" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="26"></ejercicio>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="31" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="10" time="30"></ejercicio>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="31" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="20"></ejercicio>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="10" time="20"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="28"></ejercicio>
+        <ejercicio type="2" time="17"></ejercicio>
+        <ejercicio type="31" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="10"></ejercicio>
+        <ejercicio type="11" time="30"></ejercicio>
+        <ejercicio type="2" time="12"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="10" time="35"></ejercicio>
+        <ejercicio type="2" time="10"></ejercicio>
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="35"></ejercicio>
+        <ejercicio type="2" time="15"></ejercicio>
+      </rutina>
+    </level>
+    <level name="Intermedio">
+      <rutina>
+        <ejercicio type="2" time="7"></ejercicio>
+        <ejercicio type="10" time="40"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicioCompuesto count="4">
+          <ejercicio type="11" time="10"></ejercicio>
+          <ejercicio type="2" time="2"></ejercicio>
+        </ejercicioCompuesto>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="11" time="40"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="50"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="12" time="40"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="40"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="45"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="10" time="50"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="12" time="40"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="10" time="50"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="45"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="10" time="50"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="40"></ejercicio>
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="12" time="50"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="1" time="5"></ejercicio>
+        <ejercicio type="9" time="50"></ejercicio>
+        <ejercicio type="2" time="7" />
+      </rutina>
+    </level>
+    <level name="Avanzado">
+      <rutina>
+        <ejercicio type="1" time="3"></ejercicio>
+        <ejercicio type="2" time="3"></ejercicio>
+        <ejercicio type="9" time="50" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="9" time="55" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="60" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="50" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="10" time="60" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="11" time="55" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="12" time="60" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="50" />
+        <ejercicio type="2" time="10" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="10" time="55" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="2" time="5"></ejercicio>
+        <ejercicio type="9" time="20"></ejercicio>
+        <ejercicio type="12" time="20"></ejercicio>
+        <ejercicio type="9" time="10" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="11" time="60" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="9" time="5"></ejercicio>
+        <ejercicio type="11" time="5"></ejercicio>
+        <ejercicio type="12" time="30"></ejercicio>
+        <ejercicio type="9" time="10" />
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="10" time="60"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="12" time="60"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+      <rutina>
+        <ejercicio type="10" time="60"></ejercicio>
+        <ejercicio type="2" time="5" />
+      </rutina>
+    </level>
+  </plan>
+</root>
